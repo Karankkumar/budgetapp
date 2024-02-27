@@ -2,7 +2,7 @@ import React from 'react'
 import BackspaceIcon  from '@mui/icons-material/Backspace';
 // import { Stack } from '@mui/material';
 import {Button} from '@mui/material';
-import DeleteIcon from '@mui/icons-material/Delete';
+// import DeleteIcon from '@mui/icons-material/Delete';
 
 
 const Addexpense = ({name , cost, index, deleteItem}) => {
