@@ -4,7 +4,7 @@ import BackspaceIcon  from '@mui/icons-material/Backspace';
 import {Button} from '@mui/material';
 // import DeleteIcon from '@mui/icons-material/Delete';
 
-
+// for the adding a new expensse
 const Addexpense = ({name , cost, index, deleteItem}) => {
   
 
